@@ -1,4 +1,5 @@
-# Text-Sentimental-Analysis
+# Text-Sentimental-Analysis  
+![7fb03628-d27f-4c3b-8eeb-8b48134fd25f](https://user-images.githubusercontent.com/3431730/77824022-5579dd80-7125-11ea-8470-770adbb4bdd9.jpeg)
 ## Vision of this code
 This code is to analyse the behavior of text input by the user. Please see the following screenshots to know the things in more sense.    
 **For positive text**
